@@ -1,9 +1,3 @@
-/*
-  Template Name : Swiftly Personal / Portfolio template
-  Author: Harry
-  Create Date: 15/10/2014
-  Version: v1.0
-*/
 
 /* ------------------------------------------------------------------------------
  This is jquery module for main app
